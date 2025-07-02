@@ -1,8 +1,0 @@
-
-INSTRUCTIONS:
-
-1. Visit https://console.cloud.google.com/
-2. Enable the Text-to-Speech API.
-3. Create a Service Account Key (JSON file).
-4. Upload it into this Replit project.
-5. Set an environment variable in Replit: GOOGLE_APPLICATION_CREDENTIALS=/path/to/key.json
